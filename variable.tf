@@ -33,5 +33,5 @@ variable "tag_autostart" {}
 variable "tag_autoshutdown" {}
 
 variable "vpc_id" {
-default= 172.20.0.0/16
+default= id of vpc
 }
